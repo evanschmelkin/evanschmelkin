@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Evan
 - 💻 I’m interested in **Software Engineering**, **Web Development**, and **Machine Learning**
 - 📖 I’m experienced in Python, Java, JavaScript, PyTorch, Java, MATLAB, and HTML.
-- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/evanschmelkin/) or [Email](mailto:eschmelki@conncoll.edu).
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/evan-schmelkin/) or [Email](mailto:eschmelki@conncoll.edu).
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I built my first computer at 10 years old.
 
