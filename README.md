@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @evanschmelkin
-- 👀 I’m interested in Java, Kotlin, and Python along with Raspberry Pi
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Weather apps
-- 📫 Reach me at evanschmelkin@gmail.com
+- 👀 I’m interested in **Software Engineering**, **Web Development**, and **Machine Learning**
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/evanschmelkin/) or [Email](mailto:eschmelki@conncoll.edu).
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I built my first computer at 10 years old.
 
